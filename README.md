@@ -10,7 +10,7 @@ binaria (≤ 50K o > 50K). Es un dataset clásico en minería de datos, con dato
 como valores ausentes y un notable desbalance entre clases.
 • Referencias: https://archive.ics.uci.edu/dataset/2/adult
 
-
+### Descripción de la práctica
 En esta práctica se deberán utilizar los métodos de preprocesamiento y aprendizaje
 vistos en la asignatura Obtención, almacenamiento y procesamiento de datos
 sociales digitales para resolver un problema concreto.
